@@ -41,12 +41,12 @@ tab을 이용해서 코드블럭 만들기
 printf("Hello world !\n");
 printf("code Block \n");
 ```
-
+------------
 3. BlockQuote 사용하기
 > 안녕하세요
 > > 저는 
 > > > heeeun 입니다.
-
+------------
 4. 순서 없는 목록 출력 (글머리 기호)
 + 안녕
   + Hello
@@ -60,3 +60,7 @@ printf("code Block \n");
 - 안녕
   - Hello
     - hi
+
+------------
+구분선, 수평선 만들기
+------------
