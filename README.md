@@ -45,4 +45,18 @@ printf("code Block \n");
 3. BlockQuote 사용하기
 > 안녕하세요
 > > 저는 
-> > > may-june 입니다.
+> > > heeeun 입니다.
+
+4. 순서 없는 목록 출력 (글머리 기호)
++ 안녕
+  + Hello
+    + hi
+
+
+* 안녕
+  * Hello
+    * hi
+
+- 안녕
+  - Hello
+    - hi
